@@ -1,1 +1,2 @@
-# js-express-worksho
+# JS/Express workshop
+
