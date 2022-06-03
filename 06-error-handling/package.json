@@ -4,8 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-	"start": "node server.js",
-    "develop": "nodemon server.js",
     "startMinimal": "node minimal.js",
     "developMinimal": "nodemon minimal.js"
   },
