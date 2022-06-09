@@ -9,6 +9,7 @@ npm run start
 
 To run in development mode, execute the following
 ```
+npm install -g nodemon
 npm install
 npm run develop
 ```
