@@ -31,6 +31,8 @@ app.get('/db', (req, res) => {
     }
     return res.send(results)
   })
+  //usage with placeholders:
+  //dbConnection.query('SELECT * FROM users where ID = ?', 'my-id', (error, results) => {
 })
 
 // set port
