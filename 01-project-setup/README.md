@@ -4,13 +4,13 @@
 To run the project, execute the following
 ```
 npm install
-npm run start
+npm run startMinimal
 ```
 
 To run in development mode, execute the following
 ```
 npm install
-npm run develop
+npm run developMinimal
 ```
 
 ## send first test request
